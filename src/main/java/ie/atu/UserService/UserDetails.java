@@ -1,4 +1,4 @@
-package ie.atu.week4;
+package ie.atu.UserService;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

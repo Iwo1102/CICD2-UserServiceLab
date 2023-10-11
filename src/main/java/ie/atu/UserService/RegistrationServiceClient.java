@@ -1,4 +1,4 @@
-package ie.atu.week4;
+package ie.atu.UserService;
 
 
 import org.springframework.cloud.openfeign.FeignClient;
