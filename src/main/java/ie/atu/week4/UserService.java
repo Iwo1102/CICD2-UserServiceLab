@@ -1,4 +1,4 @@
-package com.example.week4;
+package ie.atu.week4;
 
 public class UserService {
 }
